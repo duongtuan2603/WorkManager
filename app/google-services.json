@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650019372559",
+    "project_id": "workmanagerexample-315ac",
+    "storage_bucket": "workmanagerexample-315ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650019372559:android:0e487fa767471926f46d7a",
+        "android_client_info": {
+          "package_name": "com.example.workmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650019372559-f0brvje6rgl72ub3r6mtks344990s4fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workmanager",
+            "certificate_hash": "0f1645d32a44f86d2c3d740e56f2ab53b5396de7"
+          }
+        },
+        {
+          "client_id": "650019372559-bq1omvqt8ccgvde0t50l8hk9pv7s8s5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpaIQkwh-jhp8ACwRSg3a7Lbmg1JQmwbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650019372559-bq1omvqt8ccgvde0t50l8hk9pv7s8s5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
